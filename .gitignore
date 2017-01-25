@@ -3,8 +3,7 @@
 coverage/
 /node_modules/
 
-# User-specific files
-conf.json
+
 
 # Generated files
 test/tutorials/out
